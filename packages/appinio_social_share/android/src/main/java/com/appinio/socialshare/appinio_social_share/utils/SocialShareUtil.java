@@ -44,7 +44,7 @@ public class SocialShareUtil {
     private final String INSTAGRAM_STORY_PACKAGE = "com.instagram.share.ADD_TO_STORY";
     private final String INSTAGRAM_FEED_PACKAGE = "com.instagram.share.ADD_TO_FEED";
     private final String WHATSAPP_PACKAGE = "com.whatsapp";
-    private final String TELEGRAM_PACKAGE = "org.telegram.messenger";
+    private final String TELEGRAM_PACKAGE = "org.telegram.messenger.web";
     private final String TIKTOK_PACKAGE = "com.zhiliaoapp.musically";
     private final String FACEBOOK_STORY_PACKAGE = "com.facebook.stories.ADD_TO_STORY";
     private final String FACEBOOK_PACKAGE = "com.facebook.katana";
